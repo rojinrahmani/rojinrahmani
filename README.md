@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Rojin Rahmani</h1>
-<h3 align="center">AI & Machine Learning Enthusiast | Python Developer</h3>
+<h3 align="center">Software Engineer | AI Enthusiast</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,tensorflow,pytorch,git" />
@@ -8,9 +8,8 @@
 ---
 
 ## 🎯 About Me
-- 👩‍💻 Passionate about **Artificial Intelligence & Machine Learning**
-- 🐍 Python developer with experience in **ML & Deep Learning**
-- 🧠 Worked on **Digit Classification & Computer Vision** projects
+- 👩‍💻 Software Engineer with a strong interest in **Artificial Intelligence & Machine Learning**
+- 🐍 Python developer experienced in **ML, Deep Learning, and backend systems**
 - 🌍 Based in **Tehran, Iran**
 
 ---
@@ -28,15 +27,47 @@
 
 ---
 
-## 📂 Featured Projects
-- 🧠 **MNIST Digit Classifier**  
-  Neural Network for handwritten digit recognition using TensorFlow/Keras
-- 👗 **Fashion-MNIST Classifier**  
-  Image classification project with deep learning
-- 🛒 **Shopping Project**  
-  Python-based application
-- 🔄 **Django CI/CD**  
-  CI/CD pipeline setup for Django projects
+## 💼 Work Experience
+
+### 🧠 Iranian Pars Artificial Intelligence Company  
+**Software Engineer**  
+*Jul 2025 – Present | Tehran, Iran*
+- Designed and implemented a **role-based internal ticketing system**
+- Orchestrated **multi-role workflows** and secure file handling
+- Built a scalable **Scrapy–Playwright crawler** for authenticated, dynamic websites
+- Enabled **high-volume, resilient data ingestion** with resumable crawling
+- Established comprehensive **unit & integration testing** using Pytest
+
+---
+
+### 🧩 Alpha Company  
+**Backend Developer**  
+*Apr 2024 – Mar 2025 | Qazvin, Iran*
+- Designed a **modular microservices architecture** for scalable applications
+- Improved service communication using **gRPC** and **API Gateway routing**
+- Reduced end-to-end latency in distributed request handling
+- Implemented a **real-time voice-based AI interaction system**
+- Used **WebSocket & WebRTC** for synchronous speech recognition and inference
+
+---
+
+### ⚙️ Vira Parto Electronics  
+**Backend Developer**  
+*Aug 2022 – Mar 2024 | Qazvin, Iran*
+- Designed a **scalable real-time data ingestion system** for plant condition data
+- Enabled continuous sensor streaming via **secure MQTT-based communication**
+- Built real-time data ingestion for **plant status history**
+- Implemented an **automated alerting system** for plant health monitoring
+- Delivered real-time notifications for critical environmental changes
+
+---
+
+## 📜 Certifications
+- ✅ **Supervised Machine Learning: Regression and Classification**  
+  🔗 https://www.coursera.org/account/accomplishments/verify/264MPUFDD2CS
+
+- ✅ **Advanced Learning Algorithms**  
+  🔗 https://www.coursera.org/account/accomplishments/verify/NLIRYQFEL0NJ
 
 ---
 
@@ -53,4 +84,5 @@
 
 ## 🌐 Connect with Me
 - 💼 [LinkedIn](https://linkedin.com/in/rojinrahmani)
+- 📧 Email: **rahmanirojin98@gmail.com**
 - 📍 Tehran, Iran
