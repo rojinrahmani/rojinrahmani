@@ -54,17 +54,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rojinrahmani&show_icons=true&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rojinrahmani&layout=compact&theme=dark" />
-</p>
-
----
-
 ## 🌐 Connect with Me
 - 💼 [LinkedIn](https://linkedin.com/in/rojinrahmani)
 - 📧 Email: **rahmanirojin98@gmail.com**
