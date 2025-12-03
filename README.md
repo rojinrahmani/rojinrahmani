@@ -14,19 +14,6 @@
 
 ---
 
-## 🛠 Tech Stack
-
-### Programming
-<img src="https://skillicons.dev/icons?i=python" />
-
-### AI / Machine Learning
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-
-### Backend & Tools
-<img src="https://skillicons.dev/icons?i=django,git" />
-
----
-
 ## 💼 Work Experience
 
 ### 🧠 Iranian Pars Artificial Intelligence Company  
