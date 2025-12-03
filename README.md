@@ -1,9 +1,5 @@
 <h1 align="center">👋 Hi, I'm Rojin Rahmani</h1>
-<h3 align="center">Software Engineer | AI Enthusiast</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,tensorflow,pytorch,git" />
-</p>
+<h3 align="center">🚀 Software Engineer | 🤖 AI Enthusiast</h3>
 
 ---
 
