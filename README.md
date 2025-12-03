@@ -4,10 +4,8 @@
 ---
 
 ## 🎯 About Me
-- 👩‍💻 Software Engineer with a strong interest in **Artificial Intelligence & Machine Learning**
-- 🐍 Python developer experienced in **ML, Deep Learning, and backend systems**
-- 🌍 Based in **Tehran, Iran**
-
+- 👩‍💻 Software Engineer with hands-on experience in designing scalable backend systems and applying machine learning techniques to real-world problems
+- 🧠 Interested in artificial intelligence, machine learning, and building intelligent systems that bridge data and software engineering
 ---
 
 ## 💼 Work Experience
